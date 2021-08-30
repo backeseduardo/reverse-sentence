@@ -1,7 +1,7 @@
 {
-  "name": "reverse-sentence",
+  "name": "@backeseduardo/reverse-sentence",
   "version": "0.1.0",
-  "description": "",
+  "description": "Reverses the words of a sentence.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,6 @@
   "homepage": "https://github.com/backeseduardo/reverse-sentence#readme",
   "devDependencies": {
     "prettier": "2.3.2"
-  }
+  },
+  "dependencies": {}
 }
